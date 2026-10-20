@@ -5,6 +5,12 @@
             "name": "http://127.0.0.1:8080/src/station1.html",
             "request": "launch",
             "url": "http://127.0.0.1:8080/src/station1.html"
+        },
+        {
+            "type": "chrome",
+            "name": "http://127.0.0.1:8080/src/station4.html",
+            "request": "launch",
+            "url": "http://127.0.0.1:8080/src/station4.html"
         }
     ]
 }
